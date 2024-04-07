@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/graduation_studyenglish?allowMultiQueries=true&serverTimezone=GMT-8&characterEncoding=UTF-8
+    url: jdbc:mysql://localhost:3306/graduation_90_studyenglish?allowMultiQueries=true&serverTimezone=GMT-8&characterEncoding=UTF-8
     username: root
     password: 123456
     driver-class-name:  com.mysql.cj.jdbc.Driver

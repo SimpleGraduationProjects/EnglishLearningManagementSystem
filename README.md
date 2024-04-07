@@ -1,25 +1,35 @@
-# 
-
+[全目录地址:https://www.blog996.com/md/2021-09-22-1632317852192.html](https://www.blog996.com/md/2021-09-22-1632317852192.html)
 # 90.EnglishLearningManagementSystem
 
-<p>群: 123300273(大佬群 2TB学习资料,讲解)(入群获取sql文件)</p>
+<p>群: 123300273(入群获取sql文件)</p>
 <p>QQ: 1095737364(加好友获取sql文件)</p>
 
 <p><h1 align="center">90.学习英语管理系统</h1></p>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/jdk-1.8-orange.svg"/>
-    <img src="https://img.shields.io/badge/spring-5.x-lightgrey.svg"/>
-    <img src="https://img.shields.io/badge/springmvc-3.x-blue.svg"/>
-    <img src="https://img.shields.io/badge/mybatis-3.x-blue.svg"/>
     <img src="https://img.shields.io/badge/springboot-2.x-blue.svg"/>
+    <img src="https://img.shields.io/badge/maven-3.x-blue.svg"/>
+    <img src="https://img.shields.io/badge/html-5.x-lightgrey.svg"/>
 </p>
 
 ## 简介
 
-> 本代码来源于网络, 请入群(123300273)后联系群主索要sql文件!
+> 本代码来源于网络,仅供学习参考使用,请入群(123300273)后联系群主索要sql文件!
+>
+> 提供1.远程部署/2.修改代码/3.设计文档指导/4.框架代码讲解等服务
 > 
-> 本英语学习项目是为了满足学生学习英语的需求而开发，在本系统中学生可以通过背单词，每日一句，听听力，看阅读等方式加深对英语的学习与了解。
+> 用户登录地址: http://localhost:8080/
+> 
+> 用户名: 9048595701@qq.com   密码: 123456
+> 
+> 管理员登录地址: http://localhost:8080/toAdmin
+> 
+> 用户名: 904859570@qq.com   密码: 123456
+
+
+
+
 
 **本项目用到的技术和框架**<br>
 1.项目构建：Maven<br>
@@ -88,12 +98,12 @@
 ![](https://img2022.cnblogs.com/blog/588112/202203/588112-20220304070939710-2060231454.png)
 
 
+
 ## License
 
 ##### [个人站点: 全栈九九六(Java全栈知识资料下载)](https://www.blog996.com/)
 ##### [个人博客: 博客园精品博客](https://www.cnblogs.com/yysbolg/)
-##### [更多论文: 精品论文查看](https://www.cnblogs.com/yysbolg/category/1886262.html)
-##### [更多论文: 全目录查看](https://www.blog996.com/md/2021-09-22-1632317852192.html)
+# [更多论文: 全目录查看](https://www.blog996.com/md/2021-09-22-1632317852192.html)
 
 
 
